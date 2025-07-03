@@ -1,2 +1,3 @@
 # ashish-demo
-Just a dem0 repository.
+Just a demo repository.
+Author - Ashish Upadhyay
